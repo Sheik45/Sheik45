@@ -1,6 +1,6 @@
 <h2 align="center">Hey 👋 What's up!</h2>
 <img src="https://github.com/Sheik45/Sheik45/blob/5dc9110c41e4bd470475e85495b8c53993428daa/iam%20sheik%20(2).gif" width="1920" height="250">
-###
+
 
 <h2 align="center">Iam👋 sheik</h2>
 
