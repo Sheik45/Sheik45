@@ -1,5 +1,5 @@
 <h2 align="center">Hey 👋 What's up!</h2>
-<img src="(https://github.com/Sheik45/Sheik45/blob/main/1724004445261.jpg)" width="1920" height="250">
+<img src="https://github.com/Sheik45/Sheik45/blob/main/1724004445261.jpg" width="1920" height="250">
 
 
 <h2 align="center">Iam👋 sheik</h2>
